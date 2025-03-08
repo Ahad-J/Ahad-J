@@ -5,26 +5,35 @@
 </div>
 
 <h1 align="center" >Greetings STRATEGISTS!</h1>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<img align="left" alt="Coding" width="400" src="sec.gif">
-<p align="right">
-
-- 🌱 I’m currently working on **DATABASES**
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 📫 SUMMON ME AT **abdulahadjanjua1042@gmail.com**
-
-</p>
+<!-- Main Container -->
+<div style="display: flex; align-items: center;">
+    <img align="left" alt="Coding" width="400" src="sec.gif">
+    <div>
+        <p>
+            - 🌱 I’m currently working on <strong>DATABASES</strong> <br>
+            - 🌱 I’m currently learning <strong>MERN STACK</strong> <br>
+            - 📫 SUMMON ME AT <strong>abdulahadjanjua1042@gmail.com</strong>
+        </p>
+    </div>
 </div>
+
+<!-- Workspace Section (Now below the above div) -->
 <h1 align="center"><strong>Workspace</strong></h1>
 
 <p align="center">
-<strong>Laptop:&ensp;</string> <a href="https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p"> <img align="top" height="25" src="https://img.shields.io/badge/T540p-EE2624?&style=for-the-badge&logo=thinkpad&logoColor=white"></a>
+<strong>Laptop:&ensp;</strong> 
+<a href="https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p"> 
+    <img align="top" height="25" src="https://img.shields.io/badge/T540p-EE2624?&style=for-the-badge&logo=thinkpad&logoColor=white">
+</a>
+</p>
 
 <p align="center">
-<strong>Processor:&ensp;</strong> <a href="https://ark.intel.com/content/www/us/en/ark/products/76348/intel-core-i5-4200m-processor-3m-cache-up-to-3-10-ghz.html"> <img align="top" height="25" src="https://img.shields.io/badge/Core-i5 (4200M)-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-&emsp;&emsp;&emsp;                                                                                                                                                                     
+<strong>Processor:&ensp;</strong> 
+<a href="https://ark.intel.com/content/www/us/en/ark/products/76348/intel-core-i5-4200m-processor-3m-cache-up-to-3-10-ghz.html"> 
+    <img align="top" height="25" src="https://img.shields.io/badge/Core-i5 (4200M)-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+</a>
+</p>
+                                                                                                                                                                     
 <strong>iGPU:&ensp;</strong> <a href="https://www.intel.com/content/www/us/en/support/products/81496/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-4600.html"> <img align="top" height="25" src="https://img.shields.io/badge/Intel_HD_4600-0071C5?style=for-the-badge&logo=intel&logoColor=white%22"></a>
 
 <p align="center">
