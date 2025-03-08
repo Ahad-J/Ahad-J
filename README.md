@@ -4,11 +4,9 @@
     <img src="gif.gif" alt="Custom GIF" width="100%" height="400">
 </div>
 
-
-<div>
 <h1 align="center" >Greetings STRATEGISTS!</h1>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 <img align="left" alt="Coding" width="400" src="sec.gif">
-
 <p align="right">
 
 - 🌱 I’m currently working on **DATABASES**
