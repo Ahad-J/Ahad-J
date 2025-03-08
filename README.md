@@ -9,12 +9,12 @@
 </div>
 
 <!-- Image and Info Side by Side -->
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px; gap: 30px; text-align: left;">
     <!-- Left: Image -->
-    <img alt="Coding" width="400" src="sec.gif" style="border-radius: 10px;">
-    
+    <img src="sec.gif" alt="Coding" width="300" style="border-radius: 10px;">
+
     <!-- Right: Information -->
-    <div style="margin-left: 20px; font-size: 18px;">
+    <div style="font-size: 18px; color: #333;">
         <p>🌱 I’m currently working on <strong>DATABASES</strong></p>
         <p>🌱 I’m currently learning <strong>MERN STACK</strong></p>
         <p>📫 SUMMON ME AT <strong>abdulahadjanjua1042@gmail.com</strong></p>
