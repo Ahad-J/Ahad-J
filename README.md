@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center;">
     <img align="left" alt="Coding" width="400" src="sec.gif">
     <div>
-        <p>
+        <p widht="400" >
             - 🌱 I’m currently working on <strong>DATABASES</strong> <br>
             - 🌱 I’m currently learning <strong>MERN STACK</strong> <br>
             - 📫 SUMMON ME AT <strong>abdulahadjanjua1042@gmail.com</strong>
