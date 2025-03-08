@@ -5,7 +5,7 @@
 </div>
 
 
-
+<div>
 <h1 align="center" >Greetings STRATEGISTS!</h1>
 <img align="left" alt="Coding" width="400" src="sec.gif">
 
@@ -18,7 +18,7 @@
 - 📫 SUMMON ME AT **abdulahadjanjua1042@gmail.com**
 
 </p>
-
+</div>
 <h1 align="center"><strong>Workspace</strong></h1>
 
 <p align="center">
