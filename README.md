@@ -1,8 +1,9 @@
 # Ahad-J
 <!--[![MasterHead](https://giffiles.alphacoders.com/209/209343.gif) -->
 <div>
-    <img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead"  width="100%" height="200">
+    <img src="gif.gif" alt="Custom GIF" width="100%" height="200">
 </div>
+
 
 
 <h1 align="center" >Greetings STRATEGISTS!</h1>
