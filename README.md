@@ -10,6 +10,7 @@
 <img align="left" alt="Coding" width="400" src="sec.gif">
 
 <p align="right">
+
 - 🌱 I’m currently working on **DATABASES**
 
 - 🌱 I’m currently learning **MERN STACK**
