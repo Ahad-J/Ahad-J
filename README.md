@@ -42,6 +42,9 @@
 </div>
 
 ---
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+ABDUL+AHAD+JANJUA" alt="Typing Animation" />
+</div>
 
 ## 🚀 **Featured Projects**
 
