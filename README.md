@@ -1,121 +1,173 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F72E&vCenter=true&width=500&height=70&lines=Hi+there+👋;I'm+Abdul+Ahad+Janjua" alt="Typing SVG" />
-  
-  <h3>💻 Full-Stack Developer | 🏆 Swimming Champion | 🚀 FAST-NUCES '27</h3>
+Here's your enhanced README with stunning gradients, animated elements, and perfect visual flow:
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ahad-J&label=Profile+Views&color=blueviolet&style=flat)
-  ![GitHub Followers](https://img.shields.io/github/followers/Ahad-J?color=green&label=Followers&style=social)
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+```markdown
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+
+![Animated Banner](https://raw.githubusercontent.com/Ahad-J/Ahad-J/main/assets/banner.gif)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+ABDUL+AHAD+JANJUA" alt="Typing Animation" />
+
+<h3 style="color: #e6f7ff; text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff;">💻 Full-Stack Dev | 🏊‍♂️ Swimming Champion | 🚀 FAST-NUCES '27</h3>
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 1.5rem 0;">
+  <img src="https://komarev.com/ghpvc/?username=Ahad-J&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ahad-J?label=FOLLOWERS&style=for-the-badge&color=00f7ff&logo=github" alt="GitHub followers" />
 </div>
 
----
-
-## 🔥 **Tech Arsenal**
-
-<div align="center">
-
-### **Programming Languages**
-  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-
-### **Frameworks & Tools**
-  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2b2R4d3BqZ3B1NHJqYzJ5ZzV3eWJtZzVtZ3FqZzZqZzZqZzZqZzZqZ3guanBn" width="400" alt="Coding Animation" />
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🌈 **Tech Stack Spectrum**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, rgba(22,33,62,0.7) 0%, rgba(15,52,96,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
-| Project | Description | Tech Used | Link |
-|---------|-------------|-----------|------|
-| **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/pos-system) |
-| **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
-| **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
-| **ASM Word Catcher** | Retro assembly game | x86 Assembly | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/asm-word-catcher) |
+### **💎 Core Languages**
+  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="SQL" />
+</div>
 
-[![Explore All Projects](https://img.shields.io/badge/-🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-J?tab=repositories)
+### **⚙️ Dev Tools**
+  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Express" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="VS Code" />
+</div>
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🚀 **Showcase Projects**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, rgba(15,52,96,0.7) 0%, rgba(22,33,62,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
-![Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-J&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-J&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&langs_count=6)
+[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=pos-system&theme=radical&show_owner=true)](https://github.com/Ahad-J/pos-system)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ahad-J&theme=radical&background=0d1117&hide_border=true)
+[![1024 Game](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=1024-game&theme=radical&show_owner=true)](https://github.com/Ahad-J/1024-game)
+
+[![Social Media App](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=social-media-app&theme=radical&show_owner=true)](https://github.com/Ahad-J/social-media-app)
+
+[![ASM Word Catcher](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=asm-word-catcher&theme=radical&show_owner=true)](https://github.com/Ahad-J/asm-word-catcher)
+
+</div>
+
+<a href="https://github.com/Ahad-J?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=00f7ff" alt="Explore Projects" />
+</a>
 
 </div>
 
 ---
 
-## 🎓 **Education**
+## 📊 **GitHub Analytics**
+
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ahad-J&show_icons=true&theme=radical&bg_color=1a1a2e&hide_border=true&include_all_commits=true&custom_title=MY+STATS)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-J&layout=compact&theme=radical&bg_color=1a1a2e&hide_border=true&langs_count=6)
+
+![Streak](https://streak-stats.demolab.com/?user=Ahad-J&theme=radical&background=1a1a2e&hide_border=true&fire=00f7ff&ring=00f7ff)
+
+</div>
+
+</div>
+
+---
+
+## 🎓 **Education Journey**
+
+<div align="center" style="background: linear-gradient(90deg, rgba(15,52,96,0.7) 0%, rgba(22,33,62,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
 ```text
-🎯 BSCS Student (4th Semester)
+🎓 BSCS Student (4th Semester)
 🏛️ FAST-NUCES, Lahore
 📅 Expected Graduation: 2027
 📚 Specializing in Algorithms & Web Technologies
 ```
 
+</div>
+
 ---
 
-## 💬 **Social Superpowers**
+## 🌟 **Superpowers**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
-| ![Leadership](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Communication](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
-|--------------------------------------------------------------------------|------------------------------------------------------------------------|
-| **Project Team Leader**                                                 | **Expert Orator**                                                    |
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150" alt="Leadership">
+  <h3 style="color: #00f7ff;">Leadership</h3>
+  <p>Led multiple project teams to success</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Communication">
+  <h3 style="color: #00f7ff;">Communication</h3>
+  <p>Expert public speaker and team collaborator</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/l0HU7JI1u1xrQeXk4/giphy.gif" width="150" alt="Swimming">
+  <h3 style="color: #00f7ff;">Athletics</h3>
+  <p>Competitive swimming champion</p>
+</div>
+
+</div>
 
 </div>
 
 ---
 
-## 📞 **Let's Connect!**
+## 📬 **Let's Connect!**
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, rgba(22,33,62,0.7) 0%, rgba(15,52,96,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
-[![Email](https://img.shields.io/badge/Email-Abdulahadjanjua@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdulahadjanjua@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ahad--J-181717?style=for-the-badge&logo=github)](https://github.com/Ahad-J)
-[![Phone](https://img.shields.io/badge/Phone-%2B92%20319%204471212-green?style=for-the-badge&logo=whatsapp)](tel:+923194471212)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+[![Email](https://img.shields.io/badge/📧_EMAIL-Abdulahadjanjua@outlook.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00f7ff)](mailto:Abdulahadjanjua@outlook.com)
+
+[![GitHub](https://img.shields.io/badge/💻_GITHUB-Ahad_J-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=00f7ff)](https://github.com/Ahad-J)
+
+[![Phone](https://img.shields.io/badge/📞_WHATSAPP-+92_319_4471212-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00f7ff)](https://wa.me/923194471212)
+
+</div>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 3rem;">
 
-```cpp
-// Life.cpp - The Code of Abdul Ahad
-while(alive()) {
-    code();
-    debug();
-    deploy();
-    repeat();
+```javascript
+// Life Algorithm
+while(!success) {
+    tryAgain();
+    if(dead) break;
 }
 ```
 
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200">
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=fff)
+
 </div>
 ```
