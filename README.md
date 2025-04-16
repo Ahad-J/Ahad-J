@@ -1,73 +1,77 @@
-<!-- GIF at the top -->
 <div align="center">
-    <img src="gif.gif" alt="Custom GIF" width="100%" height="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F72E&vCenter=true&width=500&height=70&lines=Hi+there+👋;I'm+Abdul+Ahad+Janjua" alt="Typing SVG" />
+  
+  <h3>💻 Full-Stack Developer | 🏆 Debate Champion | 🚀 FAST-NUCES '27</h3>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ahad-J&label=Profile+Views&color=blueviolet&style=flat)
+  ![GitHub Followers](https://img.shields.io/github/followers/Ahad-J?color=green&label=Followers&style=social)
+  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 </div>
 
-<!-- Greeting Section -->
-<div style="background-color: #1e1e1e; color: white; padding: 20px; text-align: center;">
-    <h1>Greetings STRATEGISTS!</h1>
+---
+
+## 🔥 **Tech Arsenal**
+
+<div align="center">
+
+### **Programming Languages**
+  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+
+### **Frameworks & Tools**
+  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
+
 </div>
 
-<!-- Image and Info Side by Side -->
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px; gap: 30px; text-align: left;">
-    <!-- Left: Image -->
-    <img src="sec.gif" alt="Coding" width="300" style="border-radius: 10px;">
+---
 
-    <!-- Right: Information -->
-    <div style="font-size: 18px; color: #333;">
-        <p>🌱 I’m currently working on <strong>DATABASES</strong></p>
-        <p>🌱 I’m currently learning <strong>MERN STACK</strong></p>
-        <p>📫 SUMMON ME AT <strong>abdulahadjanjua1042@gmail.com</strong></p>
-    </div>
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Tech Used | Link |
+|---------|-------------|-----------|------|
+| **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/pos-system) |
+| **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
+| **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
+| **ASM Word Catcher** | Retro assembly game | x86 Assembly | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/asm-word-catcher) |
+
+[![Explore All Projects](https://img.shields.io/badge/-🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-J?tab=repositories)
+
 </div>
 
-<!-- Workspace Section -->
-<h1 align="center"><strong>Workspace</strong></h1>
+---
 
-<p align="center">
-<strong>Laptop:&ensp;</strong> 
-<a href="https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p"> 
-    <img align="top" height="25" src="https://img.shields.io/badge/T540p-EE2624?&style=for-the-badge&logo=thinkpad&logoColor=white">
-</a>
-</p>
+## 📊 **GitHub Stats**
 
-<p align="center">
-<strong>Processor:&ensp;</strong> 
-<a href="https://ark.intel.com/content/www/us/en/ark/products/76348/intel-core-i5-4200m-processor-3m-cache-up-to-3-10-ghz.html"> 
-    <img align="top" height="25" src="https://img.shields.io/badge/Core-i5 (4200M)-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-</a>
-</p>
+<div align="center">
 
-<p align="center">
-<strong>iGPU:&ensp;</strong> 
-<a href="https://www.intel.com/content/www/us/en/support/products/81496/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-4600.html"> 
-    <img align="top" height="25" src="https://img.shields.io/badge/Intel_HD_4600-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-</a>
-</p>
+![Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-J&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true)
 
-<p align="center">
-<strong>RAM:&ensp;</strong> 
-<a href="https://uk.crucial.com/memory/ddr3/ct102464bf160b"> 
-    <img align="top" height="25" src="https://img.shields.io/badge/2%20x%208GB%20(1600MT/s)-000000?style=for-the-badge&logo=c&logoColor=white">
-</a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-J&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&langs_count=6)
 
-<p align="center">
-<strong>Operating System:&ensp;</strong> 
-<a href="https://garudalinux.org/"> 
-    <img align="top" height="25" src="https://img.shields.io/badge/Arch_Linux-4793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ahad-J&theme=radical&background=0d1117&hide_border=true)
 
-<!-- Languages and Tools Section -->
-<h1 align="center"><strong>Languages and Tools</strong></h1>
+</div>
 
-<p align="center">
-<a href="https://kotlinlang.org/"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-<a href="https://www.w3schools.com/cpp/"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-<a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=for-the-badge" alt="Rust"></a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"></a>
-<a href="https://www.w3.org/html/"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-<a href="https://www.w3.org/css/"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-</p>
+---
+
+## 🎓 **Education**
+
+```text
+🎯 BSCS Student (4th Semester)
+🏛️ FAST-NUCES, Lahore
+📅 Expected Graduation: 2027
+📚 Specializing in Algorithms & Web Technologies
