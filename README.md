@@ -116,6 +116,6 @@ while(alive()) {
 ```
 
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200">
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
 ```
