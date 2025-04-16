@@ -75,3 +75,49 @@
 🏛️ FAST-NUCES, Lahore
 📅 Expected Graduation: 2027
 📚 Specializing in Algorithms & Web Technologies
+```
+
+---
+
+## 💬 **Social Superpowers**
+
+<div align="center">
+
+| ![Debate](https://media.giphy.com/media/l0HU7JI1u1xrQeXk4/giphy.gif) | ![Leadership](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Communication](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Inter-University Debate Champion**                                 | **Project Team Leader**                                                 | **Expert Orator**                                                    |
+
+</div>
+
+---
+
+## 📞 **Let's Connect!**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Abdulahadjanjua@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdulahadjanjua@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahad--J-181717?style=for-the-badge&logo=github)](https://github.com/Ahad-J)
+[![Phone](https://img.shields.io/badge/Phone-%2B92%20319%204471212-green?style=for-the-badge&logo=whatsapp)](tel:+923194471212)
+
+</div>
+
+---
+
+<div align="center">
+
+```cpp
+// Life.cpp - The Code of Abdul Ahad
+while(alive()) {
+    code();
+    debug();
+    deploy();
+    repeat();
+}
+```
+
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200">
+
+[![HitCount](https://hits.dwyl.com/Ahad-J/Ahad-J.svg?style=flat-square)](http://hits.dwyl.com/Ahad-J/Ahad-J)
+
+</div>
+```
