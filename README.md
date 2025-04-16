@@ -1,6 +1,3 @@
-Here's your enhanced README with stunning gradients, animated elements, and perfect visual flow:
-
-```markdown
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 
 ![Animated Banner](https://raw.githubusercontent.com/Ahad-J/Ahad-J/main/assets/banner.gif)
