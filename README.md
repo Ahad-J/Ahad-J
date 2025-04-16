@@ -47,28 +47,20 @@
 
 ---
 
-## 🚀 **Showcase Projects**
+## 🚀 **Featured Projects**
 
-<div align="center" style="background: linear-gradient(90deg, rgba(15,52,96,0.7) 0%, rgba(22,33,62,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
+<div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+| Project | Description | Tech Used | Link |
+|---------|-------------|-----------|------|
+| **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/pos-system) |
+| **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
+| **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
+| **ASM Word Catcher** | Retro assembly game | x86 Assembly | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/asm-word-catcher) |
 
-[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=pos-system&theme=radical&show_owner=true)](https://github.com/Ahad-J/pos-system)
-
-[![1024 Game](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=1024-game&theme=radical&show_owner=true)](https://github.com/Ahad-J/1024-game)
-
-[![Social Media App](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=social-media-app&theme=radical&show_owner=true)](https://github.com/Ahad-J/social-media-app)
-
-[![ASM Word Catcher](https://github-readme-stats.vercel.app/api/pin/?username=Ahad-J&repo=asm-word-catcher&theme=radical&show_owner=true)](https://github.com/Ahad-J/asm-word-catcher)
-
-</div>
-
-<a href="https://github.com/Ahad-J?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=00f7ff" alt="Explore Projects" />
-</a>
+[![Explore All Projects](https://img.shields.io/badge/-🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-J?tab=repositories)
 
 </div>
-
 ---
 
 ## 📊 **GitHub Analytics**
