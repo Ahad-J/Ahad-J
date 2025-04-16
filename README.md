@@ -43,8 +43,10 @@
 
 ---
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+ABDUL+AHAD+JANJUA" alt="Typing Animation" />
-</div>
+  <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+
+![Animated Banner](https://raw.githubusercontent.com/Ahad-J/Ahad-J/main/assets/banner.gif)
+ </div>
 
 ## 🚀 **Featured Projects**
 
