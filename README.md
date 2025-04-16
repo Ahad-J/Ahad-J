@@ -43,9 +43,7 @@
 
 ---
 <div>
-  <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-
-![Animated Banner](https://raw.githubusercontent.com/Ahad-J/Ahad-J/main/assets/banner.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
  </div>
 
 ## 🚀 **Featured Projects**
