@@ -9,11 +9,7 @@
 <div style="display: flex; justify-content: center; gap: 15px; margin: 1.5rem 0;">
   <img src="https://komarev.com/ghpvc/?username=Ahad-J&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ahad-J?label=FOLLOWERS&style=for-the-badge&color=00f7ff&logo=github" alt="GitHub followers" />
-</div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ2b2R4d3BqZ3B1NHJqYzJ5ZzV3eWJtZzVtZ3FqZzZqZzZqZzZqZzZqZ3guanBn" width="400" alt="Coding Animation" />
-
-</div>
 
 ---
 
