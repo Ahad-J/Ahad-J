@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F72E&vCenter=true&width=500&height=70&lines=Hi+there+👋;I'm+Abdul+Ahad+Janjua" alt="Typing SVG" />
   
-  <h3>💻 Full-Stack Developer | 🏆 Debate Champion | 🚀 FAST-NUCES '27</h3>
+  <h3>💻 Full-Stack Developer | 🏆 Swimming Champion | 🚀 FAST-NUCES '27</h3>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Ahad-J&label=Profile+Views&color=blueviolet&style=flat)
   ![GitHub Followers](https://img.shields.io/github/followers/Ahad-J?color=green&label=Followers&style=social)
@@ -83,9 +83,9 @@
 
 <div align="center">
 
-| ![Debate](https://media.giphy.com/media/l0HU7JI1u1xrQeXk4/giphy.gif) | ![Leadership](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Communication](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
-|----------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|
-| **Inter-University Debate Champion**                                 | **Project Team Leader**                                                 | **Expert Orator**                                                    |
+| ![Leadership](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Communication](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Project Team Leader**                                                 | **Expert Orator**                                                    |
 
 </div>
 
@@ -116,8 +116,6 @@ while(alive()) {
 ```
 
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200">
-
-[![HitCount](https://hits.dwyl.com/Ahad-J/Ahad-J.svg?style=flat-square)](http://hits.dwyl.com/Ahad-J/Ahad-J)
 
 </div>
 ```
