@@ -52,7 +52,7 @@
 
 | Project | Description | Tech Used | Link |
 |---------|-------------|-----------|------|
-| **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/pos-system) |
+| **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/AASPOS) |
 | **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
 | **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
 | **ASM Word Catcher** | Retro assembly game | x86 Assembly | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/asm-word-catcher) |
