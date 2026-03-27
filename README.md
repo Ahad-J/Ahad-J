@@ -76,7 +76,7 @@ Here are the badges for **Core Languages**, **Frameworks & Stacks**, and **Dev T
 
 | Project | Description | Tech Used | Link |
 |---------|-------------|-----------|------|
-|**Sentinel AI**| Real‑time violence detection system using MobileNetV2 + Bi‑LSTM (96.35% val acc) with MLOps pipeline (Docker, MLflow, PostgreSQL) | Python, Flask, TensorFlow, Docker, MLflow | [![GitHub] https://img.shields.io/badge/-View-181717?style=flat&logo=github(https://github.com/Ahad-J/SentinalAI)|
+|**Sentinel AI**| Real‑time violence detection system using MobileNetV2 + Bi‑LSTM (96.35% val acc) with MLOps pipeline (Docker, MLflow, PostgreSQL) | Python, Flask, TensorFlow, Docker, MLflow | [![GitHub] https://img.shields.io/badge/-View-181717?style=flat&logo=github](https://github.com/Ahad-J/SentinalAI)|
 | **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/AASPOS) |
 | **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
 | **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
