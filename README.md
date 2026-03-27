@@ -17,8 +17,6 @@
 
 <div align="center" style="background: linear-gradient(90deg, rgba(22,33,62,0.7) 0%, rgba(15,52,96,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
-Here are the badges for **Core Languages**, **Frameworks & Stacks**, and **Dev Tools** based on your updated CV:
-
 ### **💎 Core Languages**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
