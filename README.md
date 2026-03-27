@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+ABDUL+AHAD+JANJUA" alt="Typing Animation" />
 
-<h3 style="color: #e6f7ff; text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff;">💻 Full-Stack Dev | 🏊‍♂️ Swimming Champion | 🚀 FAST-NUCES '27</h3>
+<h3 style="color: #e6f7ff; text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff;">💻 Data Engineer | 🏊‍♂️ Swimming Champion | 🚀 FAST-NUCES '27</h3>
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 1.5rem 0;">
   <img src="https://komarev.com/ghpvc/?username=Ahad-J&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
@@ -17,28 +17,52 @@
 
 <div align="center" style="background: linear-gradient(90deg, rgba(22,33,62,0.7) 0%, rgba(15,52,96,0.7) 100%); padding: 1.5rem; border-radius: 12px; margin: 2rem 0;">
 
+Here are the badges for **Core Languages**, **Frameworks & Stacks**, and **Dev Tools** based on your updated CV:
+
 ### **💎 Core Languages**
-  
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Assembly-525252?logo=assembly&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Assembly" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="SQL" />
 </div>
 
-### **⚙️ Dev Tools**
-  
+### **⚙️ Frameworks & Stacks**
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="React" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Express" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FreeMarker-006C6C?logo=freemarker&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="FreeMarker" />
+  <img src="https://img.shields.io/badge/Jasper_Studio-5C2D91?logo=jasperreports&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Jasper Studio" />
 </div>
 
+### **🛠️ Dev Tools & MLOps**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 1rem 0;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?logo=dvc&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="DVC" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DagsHub-00A67E?logo=dagshub&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="DagsHub" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelColor=1a1a2e" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=1a1a2e" alt="VS Code" />
+</div>
 </div>
 
 ---
@@ -52,10 +76,10 @@
 
 | Project | Description | Tech Used | Link |
 |---------|-------------|-----------|------|
+|**Sentinel AI**| Real‑time violence detection system using MobileNetV2 + Bi‑LSTM (96.35% val acc) with MLOps pipeline (Docker, MLflow, PostgreSQL) | Python, Flask, TensorFlow, Docker, MLflow | [![GitHub] https://img.shields.io/badge/-View-181717?style=flat&logo=github(https://github.com/Ahad-J/SentinalAI)|
 | **POS System** | Full-stack Point of Sales software | Node, Express, JavaScript | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/AASPOS) |
 | **1024 Game** | Addictive sliding puzzle game | C++, Algorithms | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/1024-game) |
 | **Social Media App** | C++ social platform | C++, OOP | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/social-media-app) |
-| **ASM Word Catcher** | Retro assembly game | x86 Assembly | [![GitHub](https://img.shields.io/badge/-View-181717?style=flat&logo=github)](https://github.com/Ahad-J/asm-word-catcher) |
 
 [![Explore All Projects](https://img.shields.io/badge/-🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-J?tab=repositories)
 
@@ -88,7 +112,7 @@
 🎓 BSCS Student (4th Semester)
 🏛️ FAST-NUCES, Lahore
 📅 Expected Graduation: 2027
-📚 Specializing in Algorithms & Web Technologies
+📚 Specializing in Algorithms & Data Technologies
 ```
 
 </div>
@@ -137,6 +161,7 @@
 
 [![Phone](https://img.shields.io/badge/📞_WHATSAPP-+92_319_4471212-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00f7ff)](https://wa.me/923194471212)
 
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LINKEDIN-Ahad_Janjua-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00f7ff)](https://www.linkedin.com/in/abdul-ahad-janjua-08a257361/)
 </div>
 
 </div>
